@@ -27,8 +27,9 @@ body {
 
 .nav-link::before {
   content: "";
-  position: absolute;
-  background-color: #f9fafb;
+  position: absolute; 
+  /* background-color: #f9fafb;*/
+  background-color: blue;
   width: 0%;
   height: 1px;
   bottom: 0;
