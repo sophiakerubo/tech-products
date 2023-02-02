@@ -21,7 +21,7 @@ const Navbar = () => {
             <span className='logo text-xl font-semibold group-hover:text-orange-500 duration-300'>
               tech
               <span className='text-orange-500 group-hover:text-violet-50 duration-300'>
-                Alpha
+                Products
               </span>
             </span>
           </Link>
