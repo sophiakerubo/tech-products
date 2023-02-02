@@ -18,7 +18,7 @@ const Footer = () => {
           Products
         </NavLink>
       </div>
-      <p>&copy; {new Date().getFullYear()} Tech Alpha. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Tech-Products@Sophy. All rights reserved.</p>
     </footer>
   );
 };
